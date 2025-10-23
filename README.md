@@ -13,7 +13,7 @@ Um CRUD (Create, Read, Update, Delete) simples para gerenciamento de usuários, 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/crud-express.git
-cd crud-express
+cd CRUD_JS
 ```
 
 2. Instale as dependências:
@@ -24,19 +24,6 @@ npm install express uuid
 3. Instale o nodemon para desenvolvimento (opcional):
 ```bash
 npm install --save-dev nodemon
-```
-
-## 🛠️ Configuração do Package.json
-
-Adicione estes scripts ao seu `package.json`:
-
-```json
-{
-  "scripts": {
-    "dev": "nodemon server.js",
-    "start": "node server.js"
-  }
-}
 ```
 
 ## 🎯 Como Executar
@@ -170,5 +157,6 @@ curl -X DELETE http://localhost:3003/uuid-do-usuario
 - [ ] Adicionar documentação com Swagger
 
 ---
+
 
 Desenvolvido para fins educacionais 💚
