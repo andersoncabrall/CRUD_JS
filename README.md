@@ -157,6 +157,3 @@ curl -X DELETE http://localhost:3003/uuid-do-usuario
 - [ ] Adicionar documentação com Swagger
 
 ---
-
-
-Desenvolvido para fins educacionais 💚
